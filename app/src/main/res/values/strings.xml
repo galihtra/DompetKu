@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DompetKu</string>
+    <string name="dompetku">DOMPETKU</string>
+    <string name="save_your_money">Save your money</string>
 </resources>
